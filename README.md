@@ -21,7 +21,7 @@ Github - https://github.com/weidai07/TapRoom
 
 ### Specification
 
-This program is designed to allow users to search for  
+This program is designed to allow users to search for the different types of beer that are available in the Tap Room as well as the amount and price of each beer. 
 
 ## Known Bugs
 
