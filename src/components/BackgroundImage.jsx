@@ -9,7 +9,7 @@ function BackgroundImage(){
   };
   return(
     <div>
-      <img style={style} src={Background} alt="Background Image"/>
+      <img style={style} src={Background} alt="Background image"/>
     </div>
   );
 }
