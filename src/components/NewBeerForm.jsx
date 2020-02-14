@@ -7,7 +7,7 @@ function NewBeerForm(){
         <input
           type='text'
           id='names'
-          placeholder='Pair Names'/>
+          placeholder='Beer Names'/>
         <input
           type='text'
           id='location'
