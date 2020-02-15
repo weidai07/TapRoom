@@ -7,13 +7,13 @@ var masterBeerList = [
     day: 'Weekday',
     location: 'Seattle, Washington',
     hours: '24/7',
-    booth: 'AA'
+    booth: '3rd & Union Street'
   },
   {  
     day: 'Weekdend',
     location: 'Seattle, Washington',
     hours: '24/7',
-    booth: 'AA'
+    booth: '3rd & Union Street'
   }
 ];
 
