@@ -57,3 +57,12 @@ npm install eslint-plugin-react --save-dev
 npm install url-loader@0.6.2 --save-dev
 npm install file-loader@1.1.6 --save-dev
 
+npm ci 
+
+ERROR in ./src/assets/images/background.jpg
+Module parse failed: /Users/Guest/Desktop/TapRoom/src/assets/images/background.jpg Unexpected character '�' (1:0)
+You may need an appropriate loader to handle this file type.
+(Source code omitted for this binary file)
+ @ ./src/components/App.jsx 7:0-57
+ @ ./src/index.jsx
+ @ multi (webpack)-dev-server/client?http://localhost:8080 webpack/hot/dev-server react-hot-loader/patch webpack-dev-server/client?http://localhost:8080 webpack/hot/only-dev-server ./src/index.jsx
